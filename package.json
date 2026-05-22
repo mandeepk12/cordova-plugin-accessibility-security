@@ -1,0 +1,22 @@
+{
+  "name": "cordova-plugin-accessibility-security",
+  "version": "1.0.0",
+  "description": "Secures Cordova WebView against malicious Android 16 accessibility tools and tapjacking.",
+  "cordova": {
+    "id": "cordova-plugin-accessibility-security",
+    "platforms": ["Android"]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandeepk12/cordova-plugin-accessibility-security.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Mandeep Kaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandeepk12/cordova-plugin-accessibility-security/issues"
+  },
+  "homepage": "https://github.com/mandeepk12/cordova-plugin-accessibility-security#readme"
+}
